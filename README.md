@@ -2,7 +2,7 @@
 
 Este archivo te permite generar texto utilizando trigramas a partir de un archivo de texto proporcionado. Sigue estos pasos para ejecutarlo correctamente:
 
-1. Asegúrate de tener Node.js instalado en tu sistema. Si no lo tienes, descárgalo e instálalo desde el sitio oficial de Node.js.
+1. Asegúrate de tener Node.js instalado en tu sistema. Si no lo tienes, descárgalo e instálalo desde el [sitio oficial de Node.js](https://nodejs.org/es/).
 
 2. Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo "trigrama.js".
 
